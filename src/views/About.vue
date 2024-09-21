@@ -127,7 +127,7 @@ export default {
     },
     downloadResume() {
       // Path to the PDF file
-      const pdfPath = '/jason_cv.pdf';
+      const pdfPath = '/jasonperu_cv.pdf';
 
       // Fetch the PDF file
       fetch(pdfPath)
