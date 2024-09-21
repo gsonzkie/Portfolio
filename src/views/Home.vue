@@ -7,7 +7,7 @@
       <vs-row>
         <vs-avatar
           class="avatar"
-          src="jason pic.png"
+          src="jason_pic.png"
         />
       </vs-row>
       <vs-row><hr class="divider gold"/></vs-row>
